@@ -5,17 +5,19 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> こんにちは！
 
-- 🧑‍💻 B2B Wholesale IT & Software Engineer.
-- 🌱 I’m currently learning AI tool.
+- 🧑‍💻 B2B卸売のIT担当兼エンジニア兼なんでも屋です。
+- ⚙️ 最近はpython,GAS,C#を中心に業務自動化作業が多いです。
+- 🌱 最近は AIツールを使い倒すことにハマっています。
+- 🏍️ 趣味はレザークラフトです。
 <br>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## 🌱 スキル
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,csharp,php,mysql,python,react,next,docker" />
 <br>
 
@@ -23,7 +25,7 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 <!--
-## 🏃‍♀️ Activities
+## 🏃‍♀️ 活動内容
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kawajiri0709&theme=light&layout=compact&count_private=true" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawajiri0709&theme=light&layout=compact&count_private=true" />
