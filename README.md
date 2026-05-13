@@ -17,7 +17,6 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,csharp,php,mysql,python,react,next,docker" />
-<!-- <img alt="my skills" src="https://skillicons.dev/icons?theme=radical&perline=7&i=html,css,js,csharp,php,mysql,python,react,next,docker" /> -->
 <br>
 
 
